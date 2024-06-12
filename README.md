@@ -1,5 +1,5 @@
 # SafeSight
-Mobile Web Based app created to help visually impaired people to be able detect object and recognize text from far ahead or area that can't be detected using white cane (upper body). Utilizing Microsoft Azure feature such as Computer Vision, Translator, and Speech Service. Everything will conveyed verbally using text to speech.
+Mobile Web Based app created to help visually impaired people to be able detect object and recognize text from far ahead or area that can't be reach using white cane (upper body). Utilizing Microsoft Azure feature such as Computer Vision, Translator, and Speech Service. Everything will conveyed verbally using text to speech.
 # Interface Mockup
 ![img](https://drive.google.com/uc?export=view&id=1QRWupxoHAJ4dk0M69jcKVq77iRjd5K6n)  
 # Features
