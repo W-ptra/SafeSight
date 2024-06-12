@@ -3,11 +3,11 @@ Mobile Web Based app created to help visually impaired people to be able detect 
 # Interface Mockup
 ![img](https://drive.google.com/uc?export=view&id=1QRWupxoHAJ4dk0M69jcKVq77iRjd5K6n)  
 # Features
-1. Object detection & read text
+1. Object detection & read text  
 Capture an image and detect common object on the frame (person, vehicle, obstacle, etc.) then conveyed it verbally using text-to-speech
-2. Automatic object detection & read text with interval of 15 seconds (can be adjust)
+2. Automatic object detection & read text with interval of 15 seconds (can be adjust)  
 Automatically capture an image every 15 seconds to detect object and read text, the use case is when visually impaired people are walking on the street and want to know the object or sign ahead
-3. Switch Camera
+3. Switch Camera  
 Switching camera from front to back (mobile only or computer with webcam)
 # How it work?
 ![img](https://drive.google.com/uc?export=view&id=1Z9hIWefRVt93Bh_nzdMvBmTVDjBU1JLJ)  
