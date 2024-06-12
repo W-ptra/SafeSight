@@ -17,4 +17,4 @@ Switching camera from front to back (mobile only or computer with webcam)
 4. The complete sentence later converted to voice by using Speech Service API and will outputed a voice file formatted in .wav
 5. The voice file then send back to frontend to be played to the user
 # Limitation
-The main problem of this system is LATENCY, as it require many API call to outside resource then resulted in high latency.
+The main problem of this system is LATENCY, as it require many API call to outside resource that resulted in high latency.
