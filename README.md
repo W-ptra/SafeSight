@@ -8,7 +8,7 @@ Capture an image and detect common object on the frame (person, vehicle, obstacl
 2. Automatic object detection & read text with interval of 15 seconds (can be adjust)  
 Automatically capture an image every 15 seconds to detect object and read text, the use case is when visually impaired people are walking on the street and want to know the object or sign ahead
 3. Switch Camera  
-Switching camera from front to back (mobile only or computer with webcam)
+Switching camera from front to back (mobile or computer with webcam)
 # How it work?
 ![img](https://drive.google.com/uc?export=view&id=1Z9hIWefRVt93Bh_nzdMvBmTVDjBU1JLJ)  
 1. Mobile phone capture the image then send it to Microsoft Azure
